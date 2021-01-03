@@ -1,5 +1,5 @@
 # AYBUBEN
-Aybuben is an organization, much like a Alphabet Inc., that englobes several subprojects for the betterment of humankind, starting with the direct descendants of the legendary Aryans, the Armenians.
+Aybuben is an organization, much like a Alphabet Inc., that englobes several subprojects for the betterment of humankind, starting with the Armenians.
 
 ## List of subprojects
 - aybuben.org: The top domain.
